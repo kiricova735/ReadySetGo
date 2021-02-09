@@ -40,7 +40,7 @@
             this.backroundLabel.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.backroundLabel.Location = new System.Drawing.Point(-3, -2);
             this.backroundLabel.Name = "backroundLabel";
-            this.backroundLabel.Size = new System.Drawing.Size(804, 461);
+            this.backroundLabel.Size = new System.Drawing.Size(908, 483);
             this.backroundLabel.TabIndex = 0;
             this.backroundLabel.Text = "label1";
             this.backroundLabel.Click += new System.EventHandler(this.BackroundLabel_Click);
@@ -99,7 +99,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(905, 481);
             this.Controls.Add(this.go);
             this.Controls.Add(this.number3);
             this.Controls.Add(this.gameCounter);
